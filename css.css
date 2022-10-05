@@ -1,0 +1,39 @@
+.carousel {
+    position: relative;
+    margin-left: 10cm;
+}
+
+.carousel_img {
+    width: 14cm;
+    height: 14cm;
+}
+
+.carousel_container {
+    position: relative;
+}
+
+.carousel_track {
+    list-style: none;
+}
+
+.carousel_button {
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    background: transparent;
+    cursor: pointer;
+}
+
+.carousel_button-left {
+    height: 25px;
+    width: 25px;
+}
+
+.carousel_button-right {
+    height: 25px;
+    width: 25px;
+}
+
+.nav_img {
+    justify-content: center;
+}
